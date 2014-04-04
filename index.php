@@ -1,4 +1,18 @@
-<?php
-ini_set('display_errors', 1);
-require_once 'bootstrap.php';
-
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="utf-8">
+    <title>Main</title>
+    <link rel="stylesheet" type="text/css" media="all" href="/css/main.css">
+    <script src="/js/jquery.js"></script>
+    <script src="/js/effects.js"></script>
+</head>
+<body>
+    <div class="container"> 
+        <form action="" method="get">
+            <?php echo "efwef"; ?>
+            <a class="button_get clearfix" id="auth" href="https://oauth.vk.com/authorize?client_id=4285522&scope=friends&redirect_uri=http://glitchyourfriens.e3w.ru/main/auth"><img class="img" src="/images/button_get.png"></a>
+        </form>
+    </div>
+</body>
+</html>
