@@ -1,0 +1,41 @@
+body {
+    background-color: #F4F7BA;
+    margin: 0;
+    padding: 0;
+}
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    width: 100%;
+}
+.button_get {
+    margin: 20% 45%;
+    opacity: 0.88;
+    
+}
+.clearfix {
+    display: inline-block;
+}
+.img {
+    width: 100%;
+}
+.content{
+    width: 60%;
+    margin: 0 20%;
+    background-color: #F9FbCD;
+}
+.image-friend{
+    width: 16%;
+    float: left;
+    margin-left: 3.3%; 
+}
+.image-friend-border {
+    border-radius: 5%;
+}
+.content ul {
+    width: 100%;
+    margin-top: 3%;
+}
