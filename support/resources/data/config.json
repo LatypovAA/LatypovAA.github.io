@@ -1,0 +1,5 @@
+{
+    "hostUrl":"http://local.gogps.eu",
+    "lang": "en",
+    "locale":"resources/data/locale/{0}.json"
+}
