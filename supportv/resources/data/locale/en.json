@@ -1,0 +1,57 @@
+[{
+"id": "home",
+"title":"Support",
+"modul": "Component",
+"car": "Object",
+"message": "Message",
+"no_email": "You do not have e-mail",
+"open_setting":"Open the settings dialog to save e-mail",
+"alert": "Attention",
+"check_form": "Please check the correct form filling",
+"send_msg": "Send message",
+"msg_sent":"The message has been sent",
+"msg_no_sent":"The error sending message",
+"modules":[{
+"id":1, "n":"Monitoring"
+},{
+"id":2, "n":"Tracks"
+},{
+"id":3, "n":"Reports"
+},{
+"id":4, "n":"POI"
+},{
+"id":5, "n":"Geofences"
+},{
+"id":6, "n":"Routes"
+},{
+"id":7, "n":"Drivers"
+},{
+"id":8, "n":"Trailers"
+},{
+"id":9, "n":"Jobs"
+},{
+"id":10, "n":"Notifications"
+},{
+"id":11, "n":"Users"
+},{
+"id":12, "n":"Units"
+},{
+"id":13, "n":"Unit Groups"
+},{
+"id":14, "n":"Tools"
+},{
+"id":15, "n":"Apps"
+}]
+},{
+"id": "setting",
+"title": "Setting",
+"save": "Save e-mail",
+"cancel":"Cancel"
+},{
+"id":"auth",
+"title":"Authorization",
+"login":"Login",
+"password":"Password",
+"lang": "Language",
+"go":"Login"
+}]
